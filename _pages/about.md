@@ -75,7 +75,6 @@ My research interest includes:
 </div>
 
 # 🎖 Honors and Awards
-- *2024-2025* `National scholarship candidate`
 - *2024.11* Second prize in the National Mathematical Modeling Competition for College students.[[Preview]](https://github.com/)
 - *2024.09* Third class scholarship to Southwest University.[[Preview]](https://github.com/)
 - *2024.08* Third prize of National College Students Electronic Design Competition.[[Preview]](https://github.com/)
