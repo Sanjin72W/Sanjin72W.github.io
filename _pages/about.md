@@ -36,8 +36,8 @@ My research interest includes:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/ICCV2025.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Qinglei Cao<sup>†</sup>, `Ziyao Tang <sup>†</sup> `, Xiaoqin Tang<sup>*</sup> . *ICCV2025*.  
-[[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+-	Qinglei Cao<sup>†</sup>, <span style="font-size:1.2em; font-weight:bold;">Ziyao Tang<sup>†</sup></span>, Xiaoqin Tang<sup>*</sup>. *ICCV2025*. 
+[[Preview]](https://github.com/)
 
 </div>
 </div>
@@ -45,8 +45,8 @@ My research interest includes:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025</div><img src='images/MICCAI2025.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Qinglei Cao<sup>†</sup>, `Ziyao Tang <sup>†</sup> `, Xiaoqin Tang<sup>*</sup> . *MICCAI2025*.  
-[[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+-	Qinglei Cao<sup>†</sup>, <span style="font-size:1.2em; font-weight:bold;">Ziyao Tang<sup>†</sup></span>, Xiaoqin Tang<sup>*</sup>. *MICCAI2025*.
+[[Preview]](https://github.com/)
 
 </div>
 </div>
@@ -54,19 +54,19 @@ My research interest includes:
 ### Experimental Progress
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Int. J. Appl. Electrom. 2020</div><img src='images/ijaem2020.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Image-domain</div><img src='images/ijaem2020.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Ziyao Tang`, Xiaoqin Tang(supervisor). Image-domain implicit reconstruction of 2D MRI images from highly undersampled k-space data.  
-[[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+[[Preview]](https://github.com/)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Int. J. Appl. Electrom. 2020</div><img src='images/ijaem2020.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Frequency-domain</div><img src='images/ijaem2020.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Ziyao Tang`, Xiaoqin Tang(supervisor). Frequency-domain implicit reconstruction of 2D MRI images from highly undersampled k-space data. 
-[[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+[[Preview]](https://github.com/)
 </div>
 </div>
 
