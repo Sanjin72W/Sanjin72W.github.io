@@ -36,7 +36,8 @@ My research interest includes:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/ICCV2025.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Qinglei Cao<sup>†</sup>, <span style="font-size:1.2em; font-weight:bold;">Ziyao Tang<sup>†</sup></span>, Xiaoqin Tang<sup>*</sup>. *ICCV2025* . 
+-	Qinglei Cao<sup>†</sup>, <span style="font-size:1.2em; font-weight:bold;">Ziyao Tang<sup>†</sup></span>, Xiaoqin Tang<sup>*</sup>. *ICCV2025* .
+-	Under reviewing!
 -	[[Preview]](https://github.com/)
 
 </div>
@@ -46,6 +47,7 @@ My research interest includes:
 <div class='paper-box-text' markdown="1">
 
 -	Qinglei Cao<sup>†</sup>, <span style="font-size:1.2em; font-weight:bold;">Ziyao Tang<sup>†</sup></span>, Xiaoqin Tang<sup>*</sup>. *MICCAI2025* .
+-	Under reviewing!
 -	[[Preview]](https://github.com/)
 
 </div>
