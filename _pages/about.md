@@ -87,7 +87,7 @@ My research interest includes:
 
 # 💬 Recommendation Letter
 - *Prof.Xiaoqin Tang*: My supervisor, Associate Professor，School of Computer Science, Southwest University.[[Preview]](https://github.com/)
-- *Prof.Brain Usher*: Professor, formerly the dean of the Faculty of Engineering at La Trobe University, is now a part-time lecturer at UWA.[[Preview]](https://github.com/)
+- *Prof.Brain Usher*: Professor, formerly the dean of the Faculty of Engineering at La Trobe University.[[Preview]](https://github.com/)
 - *Dr.Anwarul Patwary*: Lecturer, School of Physics, Maths and Computing, Computer Science and Software Engineering, UWA.[[Preview]](https://github.com/)
 
 # 💻 Internships
