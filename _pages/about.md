@@ -79,7 +79,7 @@ My research interest includes:
 # 🎖 Honors and Awards
 - *2024.11* Second prize in the National Mathematical Modeling Competition for College students.[[Link]](https://github.com/)
 - *2024.09* Third class scholarship to Southwest University.[[Link]](https://github.com/)
-- *2024.08* Third prize of National College Students Electronic Design Competition.[[Link]](https://github.com/)
+- *2024.08* Third prize of Chongqing College Students Electronic Design Competition.[[Link]](https://github.com/Sanjin72W/Sanjin72W.github.io/blob/main/images/electric_competition.pdf)
 - *2023.09* `Merit student` of Southwest University.[[Link]](https://github.com/)
 - *2023.09* Second class scholarship to Southwest University.[[Link]](https://github.com/)
 
