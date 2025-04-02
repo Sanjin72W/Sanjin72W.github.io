@@ -20,7 +20,7 @@ redirect_from:
 I am currently a student majoring in Automation (UWA Joint Program) at the School of Computer Science, Southwest University in Chongqing, China.Ranking 5/103 students([[Link]](https://github.com/)) with a GPA of 4.3/5([[Link]](https://github.com/)) and working in the Multimedia Digital Technology Laboratory under the supervision of Prof. Xiaoqin Tang.
 
 My research interest includes: 
-- AI4Science
+- AI4Science 
 - Accelerate INR
 - MRI Reconstruction
 
