@@ -63,7 +63,7 @@ My research interest includes:
 
 -	`Ziyao Tang`, Xiaoqin Tang(supervisor). Image-domain implicit reconstruction of 2D MRI images from highly undersampled k-space data.
 -	Modifications were made to the Fourier encoding to ensure more accurate encoding of the background and boundaries.(Since 02.2025)
--	[[Preview]](https://github.com/)
+-	[[Preview]](https://github.com/Sanjin72W/Sanjin72W.github.io/blob/main/images/Image_result.pdf)
 </div>
 </div>
 
@@ -72,7 +72,7 @@ My research interest includes:
 
 -	`Ziyao Tang`, Xiaoqin Tang(supervisor). Frequency-domain implicit reconstruction of 2D MRI images from highly undersampled k-space data.
 -	Modifications were made to the network structure to effectively mitigate INR's spectral bias.(Since 11.2024)
--	[[Preview]](https://github.com/)
+-	[[Preview]](https://github.com/Sanjin72W/Sanjin72W.github.io/blob/main/images/Kspace_result.pdf)
 </div>
 </div>
 
