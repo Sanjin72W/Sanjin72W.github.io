@@ -106,9 +106,10 @@ My research interest includes:
 # 📖 Educations
 - *2022.09 - 2026.06 (Expected)*, Major in Automation, school of computer science, Southwest University(UWA Joint Program). 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Recommendation Letter
+- *Prof.Xiaoqin Tang*: My supervisor, Associate Professor， School of Computer Science, Southwest University.
+- *Prof.Brain Usher*: Professor, who was formerly the dean of the Faculty of Engineering at La Trobe University, is now a part-time lecturer at UWA.
+- *Dr.Anwarul Patwary*: Lecturer, School of Physics, Maths and Computing, Computer Science and Software Engineering, UWA.
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
