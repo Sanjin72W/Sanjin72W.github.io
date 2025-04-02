@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Ziyao Tang"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/image.png"
   bio              : "Southwest University(UWA joint program)"
   location         : "Chongqing, China"
   employer         :
