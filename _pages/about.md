@@ -92,4 +92,4 @@ My research interest includes:
 - *Dr.Anwarul Patwary*: Lecturer, School of Physics, Maths and Computing, Computer Science and Software Engineering, UWA.[[Link]](https://github.com/)
 
 # 💻 Internships
-- *2023.07 - 2023.08*, Center for Experimental Electronic&information, Peking University.[[Link]](https://github.com/)
+- *2023.07 - 2023.08*, Center for Experimental Electronic&information, Peking University.[[Link]](https://github.com/Sanjin72W/Sanjin72W.github.io/blob/main/images/PekingU.pdf)
