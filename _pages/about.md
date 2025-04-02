@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a student at the School of Computer Science, Southwest University in Chongqing, China, currently working in the Multimedia Digital Technology Laboratory under the supervision of Prof.Xiaoqin Tang.
+I am currently a student majoring in Automation (UWA Joint Program) at the School of Computer Science, Southwest University in Chongqing, China.Ranking 5/103 students with a GPA of 4.3/5 and working in the Multimedia Digital Technology Laboratory under the supervision of Prof. Xiaoqin Tang.
 
 My research interest includes: 
 - AI4Science
