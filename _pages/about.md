@@ -27,7 +27,9 @@ My research interest includes:
 
 # 🔥 News
 - *2025.03*: &nbsp;🎉🎉 Our paper has been submitted to ICCV2025. 
-- *2025.03*: &nbsp;🎉🎉 Our paper has been submitted to MICCAI2025. 
+- *2025.03*: &nbsp;🎉🎉 Our paper has been submitted to MICCAI2025.
+- *2025.02*: &nbsp;🎉🎉 Our paper was declined by CVPR2025 (Rating: 542; Confidence: 244).
+- *2024.11*: &nbsp;🎉🎉 Our paper has been submitted to CVPR2025. 
 
 # 📝 Publications 
 
