@@ -37,7 +37,7 @@ My research interest includes:
 <div class='paper-box-text' markdown="1">
 
 -	Qinglei Cao<sup>†</sup>, <span style="font-size:1.2em; font-weight:bold;">Ziyao Tang<sup>†</sup></span>, Xiaoqin Tang<sup>*</sup>. *ICCV2025*. 
-[[Preview]](https://github.com/)
+-	[[Preview]](https://github.com/)
 
 </div>
 </div>
@@ -46,7 +46,7 @@ My research interest includes:
 <div class='paper-box-text' markdown="1">
 
 -	Qinglei Cao<sup>†</sup>, <span style="font-size:1.2em; font-weight:bold;">Ziyao Tang<sup>†</sup></span>, Xiaoqin Tang<sup>*</sup>. *MICCAI2025*.
-[[Preview]](https://github.com/)
+-	[[Preview]](https://github.com/)
 
 </div>
 </div>
@@ -58,7 +58,7 @@ My research interest includes:
 <div class='paper-box-text' markdown="1">
 
 -	`Ziyao Tang`, Xiaoqin Tang(supervisor). Image-domain implicit reconstruction of 2D MRI images from highly undersampled k-space data.  
-[[Preview]](https://github.com/)
+-	[[Preview]](https://github.com/)
 </div>
 </div>
 
@@ -66,7 +66,7 @@ My research interest includes:
 <div class='paper-box-text' markdown="1">
 
 -	`Ziyao Tang`, Xiaoqin Tang(supervisor). Frequency-domain implicit reconstruction of 2D MRI images from highly undersampled k-space data. 
-[[Preview]](https://github.com/)
+-	[[Preview]](https://github.com/)
 </div>
 </div>
 
