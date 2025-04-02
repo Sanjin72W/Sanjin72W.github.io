@@ -79,7 +79,7 @@ My research interest includes:
 - *2023.09* Second class scholarship to Southwest University.
 
 # 📖 Educations
-- *2022.09 - 2026.06 (Expected)*, Major in Automation, school of computer science, Southwest University(UWA Joint Program). 
+- *2022.09 - 2026.06 (Expected)*, Major in Automation, School of Computer Science, Southwest University(UWA Joint Program). 
 
 # 💬 Recommendation Letter
 - *Prof.Xiaoqin Tang*: My supervisor, Associate Professor，School of Computer Science, Southwest University.
