@@ -62,7 +62,7 @@ My research interest includes:
 <div class='paper-box-text' markdown="1">
 
 -	Qinglei Cao, `Ziyao Tang`, Xiaoqin Tang(supervisor). Accelerate INR.
--	InR Acceleration Algorithm Based on Hard Sample Selection and Gradient Grouping.(Since 08.2024)
+-	InR Acceleration Algorithm Based on Hard Sample Selection and Gradient Grouping.(LRS Classic Hard Sample Mining Sampling Method, MLG SAX-NeRF CVPR2024 Sampling Method, Since 08.2024.)
 -	[[Preview]](https://github.com/Sanjin72W/Sanjin72W.github.io/blob/main/images/AI.pdf)
 </div>
 </div>
