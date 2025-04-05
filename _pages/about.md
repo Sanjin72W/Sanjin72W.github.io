@@ -58,11 +58,20 @@ My research interest includes:
 ### Experimental Progress
 ---
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Accelerate INR</div><img src='images/AI.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	Qinglei Cao, `Ziyao Tang`, Xiaoqin Tang(supervisor). Accelerate INR.
+-	InR Acceleration Algorithm Based on Hard Sample Selection and Gradient Grouping.(Since 08.2024)
+-	[[Preview]](https://github.com/Sanjin72W/Sanjin72W.github.io/blob/main/images/AI.pdf)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Image-domain</div><img src='images/Image_result.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Ziyao Tang`, Xiaoqin Tang(supervisor). Image-domain implicit reconstruction of 2D MRI images from highly undersampled k-space data.
--	Modifications were made to the Fourier encoding to ensure more accurate encoding of the background and boundaries.(Since 02.2025)
+-	Fourier Encoding Scale Selection Based on the Energy Spectrum for the Interpretability of Different Data.(Since 02.2025)
 -	[[Preview]](https://github.com/Sanjin72W/Sanjin72W.github.io/blob/main/images/Image_result.pdf)
 </div>
 </div>
