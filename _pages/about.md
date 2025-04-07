@@ -55,6 +55,18 @@ My research interest includes:
 </div>
 </div>
 
+### Working Paper
+---
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Image-domain</div><img src='images/Image_result.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	`Ziyao Tang`, Xiaoqin Tang(supervisor). Image-domain implicit reconstruction of 2D MRI images from highly undersampled k-space data.
+-	A study on a training strategy that uses Fourier encoding widths progressing from coarse to fine and back to coarse, and on selecting Fourier encoding widths for different data based on the energy spectrum.(Since 02.2025)
+-	[[Preview]](https://github.com/Sanjin72W/Sanjin72W.github.io/blob/main/images/Image_result.pdf)
+</div>
+</div>
+
 ### Experimental Progress
 ---
 
@@ -64,15 +76,6 @@ My research interest includes:
 -	Qinglei Cao, `Ziyao Tang`, Xiaoqin Tang(supervisor). Accelerate INR.
 -	InR Acceleration Algorithm Based on Hard Sample Selection and Gradient Grouping.(LRS Classic Hard Sample Mining Sampling Method, MLG SAX-NeRF CVPR2024 Sampling Method, Since 08.2024.)
 -	[[Preview]](https://github.com/Sanjin72W/Sanjin72W.github.io/blob/main/images/AI.pdf)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Image-domain</div><img src='images/Image_result.svg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
--	`Ziyao Tang`, Xiaoqin Tang(supervisor). Image-domain implicit reconstruction of 2D MRI images from highly undersampled k-space data.
--	Fourier Encoding Scale Selection Based on the Energy Spectrum for the Interpretability of Different Data.(Since 02.2025)
--	[[Preview]](https://github.com/Sanjin72W/Sanjin72W.github.io/blob/main/images/Image_result.pdf)
 </div>
 </div>
 
