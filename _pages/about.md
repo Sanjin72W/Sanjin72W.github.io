@@ -26,8 +26,8 @@ My research interest includes:
 
 
 # 🔥 News
-- *2025.03*: &nbsp;🎉🎉 Our paper has been submitted to ICCV2025. 
-- *2025.03*: &nbsp;🎉🎉 Our paper has been submitted to MICCAI2025.
+- *2025.03*: &nbsp;🎉🎉 Our paper has been submitted to CCFA Conference. 
+- *2025.03*: &nbsp;🎉🎉 Our paper has been submitted to CCFB Conference.
 - *2025.02*: &nbsp;😭😭 Our paper was declined by CVPR2025 (Rating: 542; Confidence: 244).
 - *2024.11*: &nbsp;🎉🎉 Our paper has been submitted to CVPR2025. 
 
@@ -35,20 +35,20 @@ My research interest includes:
 
 ### Due to the conference's double-blind review requirements, the experimental methods have been concealed and noise has been added to the experimental results.
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/ICCV_result.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCFA</div><img src='images/ICCV_result.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Qinglei Cao<sup>†</sup>, <span style="font-size:1.2em; font-weight:bold;">Ziyao Tang<sup>†</sup></span>, Xiaoqin Tang<sup>*</sup>. ICCV2025.
+-	Qinglei Cao<sup>†</sup>, <span style="font-size:1.2em; font-weight:bold;">Ziyao Tang<sup>†</sup></span>, Xiaoqin Tang<sup>*</sup>. CCFA.
 -	Under reviewing!
 -	[[Preview]](https://github.com/Sanjin72W/Sanjin72W.github.io/blob/main/images/ICCV_result.pdf)
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025</div><img src='images/MICCAI_result.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCFB</div><img src='images/MICCAI_result.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Qinglei Cao<sup>†</sup>, <span style="font-size:1.2em; font-weight:bold;">Ziyao Tang<sup>†</sup></span>, Xiaoqin Tang<sup>*</sup>. MICCAI2025.
+-	Qinglei Cao<sup>†</sup>, <span style="font-size:1.2em; font-weight:bold;">Ziyao Tang<sup>†</sup></span>, Xiaoqin Tang<sup>*</sup>. CCFB.
 -	Under reviewing!
 -	[[Preview]](https://github.com/Sanjin72W/Sanjin72W.github.io/blob/main/images/MICCAI_result.pdf)
 
