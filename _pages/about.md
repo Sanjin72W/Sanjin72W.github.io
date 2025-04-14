@@ -99,9 +99,10 @@ My research interest includes:
 - *2022.09 - 2026.06 (Expected)*, Major in Automation, School of Computer Science, Southwest University(UWA Joint Program). 
 
 # 💬 Recommendation Letter
-- *Prof.Xiaoqin Tang*: My supervisor, Associate Professor，School of Computer Science, Southwest University.[[Link]](https://github.com/)
-- *Prof.Brain Usher*: Professor, formerly the dean of the Faculty of Engineering at La Trobe University.[[Link]](https://github.com/)[[📧]](brian.usher99@outlook.com)
-- *Dr.Anwarul Patwary*: Lecturer, School of Physics, Maths and Computing, Computer Science and Software Engineering, UWA.[[Link]](https://github.com/)
+- *Prof.Xiaoqin Tang*: My supervisor, Associate Professor，School of Computer Science, Southwest University.[[Link]](https://github.com/)[[📧]](mailto:brian.usher99@outlook.com)
+- *Prof. Brian Usher*: Professor, formerly the dean of the Faculty of Engineering at La Trobe University. [[Link]](https://github.com/) [[📧]](mailto:brian.usher99@outlook.com)
+- *Dr.Anwarul Patwary*: Lecturer, School of Physics, Maths and Computing, Computer Science and Software Engineering, UWA.[[Link]](https://github.com/)[[📧]](mailto:mdanwarulkaium.patwary@uwa.edu.au)
+- (Feel free to contact them.)
 
 # 💻 Internships
 - *2023.07 - 2023.08*, Center for Experimental Electronic&information, Peking University.[[Link]](https://github.com/Sanjin72W/Sanjin72W.github.io/blob/main/images/PekingU.pdf)
