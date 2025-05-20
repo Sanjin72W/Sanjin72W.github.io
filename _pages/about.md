@@ -50,7 +50,7 @@ My research interest includes:
 
 -	Qinglei Cao<sup>†</sup>, <span style="font-size:1.2em; font-weight:bold;">Ziyao Tang<sup>†</sup></span>, Xiaoqin Tang<sup>*</sup>. MICCAI.
 -	Rebuttal submitted; scores 3–3–5 (confidences 3, 4, 3); decision on June 25, 2025.
--	[[Preview]](https://github.com/Sanjin72W/Sanjin72W.github.io/blob/main/images/MICCAI_result.pdf)
+-	The full paper and accompanying code will be made available upon paper acceptance.[[Preview]](https://github.com/Sanjin72W/Sanjin72W.github.io/blob/main/images/MICCAI_result.pdf)
 
 </div>
 </div>
@@ -63,7 +63,7 @@ My research interest includes:
 
 -	Qinglei Cao, `Ziyao Tang`, Xiaoqin Tang(supervisor). Accelerate INR.
 -	INR Acceleration Algorithm Based on Hard Sample Selection and Gradient Grouping.(LRS Classic Hard Sample Mining Sampling Method, MLG SAX-NeRF CVPR2024 Sampling Method, Since 08.2024.)
--	[[Preview]](https://github.com/Sanjin72W/Sanjin72W.github.io/blob/main/images/AI.pdf)
+-	The full paper and accompanying code will be made available upon paper acceptance.[[Preview]](https://github.com/Sanjin72W/Sanjin72W.github.io/blob/main/images/AI.pdf)
 </div>
 </div>
 
