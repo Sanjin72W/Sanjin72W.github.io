@@ -39,7 +39,7 @@ My research interest includes:
 <div class='paper-box-text' markdown="1">
 
 -	Qinglei Cao<sup>†</sup>, <span style="font-size:1.2em; font-weight:bold;">Ziyao Tang<sup>†</sup></span>, Xiaoqin Tang<sup>*</sup>. ICCV.
--	Rebuttal! Rating:5-5-5,confidence:1-3-5
+-	Rebuttal submitted; scores 5–5–5 (confidences 1, 3, 5); decision on June 17, 2025.
 -	[[Preview]](https://github.com/Sanjin72W/Sanjin72W.github.io/blob/main/images/ICCV_result.pdf)
 
 </div>
@@ -49,7 +49,7 @@ My research interest includes:
 <div class='paper-box-text' markdown="1">
 
 -	Qinglei Cao<sup>†</sup>, <span style="font-size:1.2em; font-weight:bold;">Ziyao Tang<sup>†</sup></span>, Xiaoqin Tang<sup>*</sup>. MICCAI.
--	Rebuttal! Rating:3-3-5,confidence:3-4-3
+-	Rebuttal submitted; scores 3–3–5 (confidences 3, 4, 3); decision on June 25, 2025.
 -	[[Preview]](https://github.com/Sanjin72W/Sanjin72W.github.io/blob/main/images/MICCAI_result.pdf)
 
 </div>
@@ -62,7 +62,7 @@ My research interest includes:
 <div class='paper-box-text' markdown="1">
 
 -	Qinglei Cao, `Ziyao Tang`, Xiaoqin Tang(supervisor). Accelerate INR.
--	InR Acceleration Algorithm Based on Hard Sample Selection and Gradient Grouping.(LRS Classic Hard Sample Mining Sampling Method, MLG SAX-NeRF CVPR2024 Sampling Method, Since 08.2024.)
+-	INR Acceleration Algorithm Based on Hard Sample Selection and Gradient Grouping.(LRS Classic Hard Sample Mining Sampling Method, MLG SAX-NeRF CVPR2024 Sampling Method, Since 08.2024.)
 -	[[Preview]](https://github.com/Sanjin72W/Sanjin72W.github.io/blob/main/images/AI.pdf)
 </div>
 </div>
@@ -71,7 +71,7 @@ My research interest includes:
 <div class='paper-box-text' markdown="1">
 
 -	`Ziyao Tang`, Xiaoqin Tang(supervisor). Frequency-domain implicit reconstruction of 2D MRI images from highly undersampled k-space data.
--	Modifications were made to the network structure to effectively mitigate INR's spectral bias.(Since 11.2024)
+-	Modifications were made to the network structure to effectively mitigate INR's spectral bias.(Since 03.2025)
 -	[[Preview]](https://github.com/Sanjin72W/Sanjin72W.github.io/blob/main/images/Kspace_result.pdf)
 </div>
 </div>
