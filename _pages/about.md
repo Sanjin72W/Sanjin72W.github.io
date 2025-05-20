@@ -22,12 +22,12 @@ I am currently a student majoring in Automation (UWA Joint Program) at the Schoo
 My research interest includes: 
 - AI4Science 
 - Accelerate INR
-- MRI Reconstruction
+- Image Reconstruction
 
 
 # 🔥 News
-- *2025.03*: &nbsp;🎉🎉 Our paper has been submitted to CCFA Conference. 
-- *2025.03*: &nbsp;🎉🎉 Our paper has been submitted to CCFB Conference.
+- *2025.03*: &nbsp;🎉🎉 Our paper has been submitted to ICCV. 
+- *2025.03*: &nbsp;🎉🎉 Our paper has been submitted to MICCAI.
 - *2025.02*: &nbsp;😭😭 Our paper was declined by CVPR2025 (Rating: 542; Confidence: 244).
 - *2024.11*: &nbsp;🎉🎉 Our paper has been submitted to CVPR2025. 
 
@@ -35,35 +35,23 @@ My research interest includes:
 
 ### Due to the conference's double-blind review requirements, the experimental methods have been concealed and noise has been added to the experimental results.
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCFA</div><img src='images/ICCV_result.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV</div><img src='images/ICCV_result.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Qinglei Cao<sup>†</sup>, <span style="font-size:1.2em; font-weight:bold;">Ziyao Tang<sup>†</sup></span>, Xiaoqin Tang<sup>*</sup>. CCFA.
--	Under reviewing!
+-	Qinglei Cao<sup>†</sup>, <span style="font-size:1.2em; font-weight:bold;">Ziyao Tang<sup>†</sup></span>, Xiaoqin Tang<sup>*</sup>. ICCV.
+-	Rebuttal! Rating:5-5-5,confidence:1-3-5
 -	[[Preview]](https://github.com/Sanjin72W/Sanjin72W.github.io/blob/main/images/ICCV_result.pdf)
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCFB</div><img src='images/MICCAI_result.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI</div><img src='images/MICCAI_result.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Qinglei Cao<sup>†</sup>, <span style="font-size:1.2em; font-weight:bold;">Ziyao Tang<sup>†</sup></span>, Xiaoqin Tang<sup>*</sup>. CCFB.
--	Under reviewing!
+-	Qinglei Cao<sup>†</sup>, <span style="font-size:1.2em; font-weight:bold;">Ziyao Tang<sup>†</sup></span>, Xiaoqin Tang<sup>*</sup>. MICCAI.
+-	Rebuttal! Rating:3-3-5,confidence:3-4-3
 -	[[Preview]](https://github.com/Sanjin72W/Sanjin72W.github.io/blob/main/images/MICCAI_result.pdf)
 
-</div>
-</div>
-
-### Working Paper
----
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Image-domain</div><img src='images/Image_result.svg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
--	`Ziyao Tang`, Xiaoqin Tang(supervisor). Image-domain implicit reconstruction of 2D MRI images from highly undersampled k-space data.
--	A study on a training strategy that uses Fourier encoding widths progressing from coarse to fine and back to coarse, and on selecting Fourier encoding widths for different data based on the energy spectrum.(Since 02.2025)
--	[[Preview]](https://github.com/Sanjin72W/Sanjin72W.github.io/blob/main/images/Image_result.pdf)
 </div>
 </div>
 
