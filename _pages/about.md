@@ -77,8 +77,8 @@ My research interest includes:
 </div>
 
 # 🎖 Honors and Awards
-- *2025.5* National Scholarship Candidate.[[Link]](https://github.com/)
-- *2025.5* Third Prize, Chongqing Division, China University Student Computer Design Competition.[[Link]](https://github.com/)
+- *2025.05* National Scholarship Candidate.[[Link]](https://github.com/)
+- *2025.05* Third Prize, Chongqing Division, China University Student Computer Design Competition.[[Link]](https://github.com/)
 - *2024.11* Second prize in the National Mathematical Modeling Competition for College students.[[Link]](https://github.com/)
 - *2024.09* Third class scholarship to Southwest University.[[Link]](https://github.com/)
 - *2024.08* Third prize of Chongqing College Students Electronic Design Competition.[[Link]](https://github.com/Sanjin72W/Sanjin72W.github.io/blob/main/images/electric_competition.pdf)
