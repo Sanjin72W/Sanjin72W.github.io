@@ -26,7 +26,7 @@ My research interest includes:
 
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 Participant, 2025 China Conference on Image and Graphics.[[Link]](https://github.com/)
+- *2025.05*: &nbsp;🎉🎉 Participant, 2025 China Conference on Image and Graphics.[[Link]]([https://github.com/](https://github.com/Sanjin72W/Sanjin72W.github.io/blob/main/images/confere.png))
 - *2025.03*: &nbsp;🎉🎉 Our paper has been submitted to ICCV. 
 - *2025.03*: &nbsp;🎉🎉 Our paper has been submitted to MICCAI.
 - *2025.02*: &nbsp;😭😭 Our paper was declined by CVPR2025 (Rating: 542; Confidence: 244).
