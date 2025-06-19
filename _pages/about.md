@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a student majoring in Automation (UWA Joint Program) at the School of Computer Science, Southwest University in Chongqing, China.Ranking 5/102 students([[Link]](https://github.com/Sanjin72W/Sanjin72W.github.io/blob/main/images/ranking_222022321132054_2025-04-02.pdf)) with a GPA of 4.3/5([[Link]](https://github.com/Sanjin72W/Sanjin72W.github.io/blob/main/images/GPA_222022321132054_2025-04-02.pdf)) and working in the Multimedia Digital Technology Laboratory under the supervision of Prof. Xiaoqin Tang.
+I am currently a student majoring in Automation (UWA Joint Program) at the School of Computer Science, Southwest University in Chongqing, China.Ranking 4/102 students([[Link]](https://github.com/Sanjin72W/Sanjin72W.github.io/blob/main/images/ranking_222022321132054_2025-04-02.pdf)) with a GPA of 4.3/5([[Link]](https://github.com/Sanjin72W/Sanjin72W.github.io/blob/main/images/GPA_222022321132054_2025-04-02.pdf)) and working in the Multimedia Digital Technology Laboratory under the supervision of Prof. Xiaoqin Tang[[Link]]([https://github.com/](https://cis.swu.edu.cn/info/1014/4462.htm)).My research primarily focuses on 2D/3D CT image reconstruction and MRI reconstruction. I am proficient in PyTorch and C, and also experienced in MATLAB. I have a solid understanding of the fundamental frameworks behind algorithms such as diffusion models and 3DGS, with particularly deep insights into the NeRF framework.
 
 My research interest includes: 
 - Biomedical image reconstruction 
@@ -25,8 +25,8 @@ My research interest includes:
 
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉🎉 Our paper has been accepted by MICCAI2025.[[Link]]([https://github.com/]
-- *2025.05*: &nbsp;🎉🎉 Participant, 2025 China Conference on Image and Graphics.[[Link]]([https://github.com/](https://github.com/Sanjin72W/Sanjin72W.github.io/blob/main/images/confere.png))
+- *2025.06*: &nbsp;🎉🎉 Our paper has been accepted by MICCAI2025.
+- *2025.05*: &nbsp;🎉🎉 Participant, 2025 China Conference on Image and Graphics.[[Link]]([[https://github.com/](https://github.com/Sanjin72W/Sanjin72W.github.io/blob/main/images/confere.png)](https://raw.githubusercontent.com/Sanjin72W/Sanjin72W.github.io/main/images/confere.png)))
 - *2025.03*: &nbsp;🎉🎉 Our paper has been submitted to ICCV. 
 
 
@@ -34,22 +34,21 @@ My research interest includes:
 
 ### Due to the conference's double-blind review requirements, the experimental methods have been concealed and noise has been added to the experimental results.
 ---
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI</div><img src='images/MICCAI_result.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	Qinglei Cao<sup>†</sup>, <span style="font-size:1.2em; font-weight:bold;">Ziyao Tang<sup>†</sup></span>, Xiaoqin Tang<sup>*</sup>. MICCAI.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV</div><img src='images/ICCV_result.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	Qinglei Cao<sup>†</sup>, <span style="font-size:1.2em; font-weight:bold;">Ziyao Tang<sup>†</sup></span>, Xiaoqin Tang<sup>*</sup>. ICCV.
 -	Under rebuttal; scores 5–5–5 (confidences 1-3-5); decision on June 17, 2025.
 -	The full paper and accompanying code will be made available upon paper acceptance.[[Preview]](https://github.com/Sanjin72W/Sanjin72W.github.io/blob/main/images/ICCV_result.pdf)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI</div><img src='images/MICCAI_result.svg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
--	Qinglei Cao<sup>†</sup>, <span style="font-size:1.2em; font-weight:bold;">Ziyao Tang<sup>†</sup></span>, Xiaoqin Tang<sup>*</sup>. MICCAI.
--	Under rebuttal; scores 3–3–5 (confidences 3-4-3); decision on June 25, 2025.
--	The full paper and accompanying code will be made available upon paper acceptance.[[Preview]](https://github.com/Sanjin72W/Sanjin72W.github.io/blob/main/images/MICCAI_result.pdf)
 
 </div>
 </div>
