@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a student majoring in Automation (UWA Joint Program) at the School of Computer Science, Southwest University in Chongqing, China.Ranking 4/102 students([[Link]](https://github.com/Sanjin72W/Sanjin72W.github.io/blob/main/images/ranking_222022321132054_2025-04-02.pdf)) with a GPA of 4.3/5([[Link]](https://github.com/Sanjin72W/Sanjin72W.github.io/blob/main/images/GPA_222022321132054_2025-04-02.pdf)) and working in the Multimedia Digital Technology Laboratory under the supervision of Prof. Xiaoqin Tang[[Link]](https://cis.swu.edu.cn/info/1014/4462.htm).
 
-My research primarily focuses on 2D/3D CT image reconstruction and MRI reconstruction. I am proficient in PyTorch and C, and also experienced in MATLAB. I have a solid understanding of the fundamental frameworks behind algorithms such as diffusion models and 3DGS, with particularly deep insights into the NeRF framework.
+My research primarily focuses on 2D/3D CT reconstruction and MRI reconstruction. I am proficient in PyTorch and C, and also experienced in MATLAB. I have a solid understanding of the fundamental frameworks behind algorithms such as diffusion models and 3DGS, with particularly deep insights into the NeRF framework.
 
 
 My research interest includes: 
@@ -38,12 +38,12 @@ My research interest includes:
 ### Due to the conference's double-blind review requirements, the experimental methods have been concealed and noise has been added to the experimental results.
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI</div><img src='images/MICCAI_result.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI</div><img src='images/MICCAI_Figure1.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	Qinglei Cao<sup>†</sup>, <span style="font-size:1.2em; font-weight:bold;">Ziyao Tang<sup>†</sup></span>, Xiaoqin Tang<sup>*</sup>. MICCAI2025.
--	工作贡献：稀疏视角下3D锥束CT重建在隐式学习领域质的飞跃。
--	主要贡献：从目标先验中提取结构特征的特征提取器设计。
+-	Paper's Contribution: A coarse reconstruction is achieved within seconds by designing a CUDA-based Target Prior Estimator (TPE), and a Target Prior Structure Encoder (TPSE) is used to extract structural prior embeddings from TPE to enhance the input encoding. This leads to a qualitative breakthrough in implicit learning-based 3D cone-beam CT reconstruction under sparse-view conditions.
+-	My Contribution: TPSE is designed to pre-extract structural features without relying on a trainable network.
 -	[[Code]]()Coming soon.[[Paper]]()Waiting for camera-ready edition.
 
 </div>
@@ -81,7 +81,8 @@ My research interest includes:
 </div>
 
 # 🎖 Honors and Awards
-- *2025.05* National Scholarship Candidate.[[Link]](https://github.com/)
+- *2025.07* National Scholarship Candidate(The final result will be released in early October).
+- *2025.06* Second Prize (National-level Recommendation), China AI and Robotics Competition.[[Link]](https://github.com/)
 - *2025.05* Third Prize, Chongqing Division, China University Student Computer Design Competition.[[Link]](https://github.com/)
 - *2024.11* Second prize in the National Mathematical Modeling Competition for College students.[[Link]](https://github.com/)
 - *2024.09* Third class scholarship to Southwest University.[[Link]](https://github.com/)
