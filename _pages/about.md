@@ -20,17 +20,15 @@ redirect_from:
 I am currently a student majoring in Automation (UWA Joint Program) at the School of Computer Science, Southwest University in Chongqing, China.Ranking 5/102 students([[Link]](https://github.com/Sanjin72W/Sanjin72W.github.io/blob/main/images/ranking_222022321132054_2025-04-02.pdf)) with a GPA of 4.3/5([[Link]](https://github.com/Sanjin72W/Sanjin72W.github.io/blob/main/images/GPA_222022321132054_2025-04-02.pdf)) and working in the Multimedia Digital Technology Laboratory under the supervision of Prof. Xiaoqin Tang.
 
 My research interest includes: 
-- AI4Science 
+- Biomedical image reconstruction 
 - Accelerate INR
-- Image Reconstruction
 
 
 # 🔥 News
+- *2025.06*: &nbsp;🎉🎉 Our paper has been accepted by MICCAI2025.[[Link]]([https://github.com/]
 - *2025.05*: &nbsp;🎉🎉 Participant, 2025 China Conference on Image and Graphics.[[Link]]([https://github.com/](https://github.com/Sanjin72W/Sanjin72W.github.io/blob/main/images/confere.png))
 - *2025.03*: &nbsp;🎉🎉 Our paper has been submitted to ICCV. 
-- *2025.03*: &nbsp;🎉🎉 Our paper has been submitted to MICCAI.
-- *2025.02*: &nbsp;😭😭 Our paper was declined by CVPR2025 (Rating: 542; Confidence: 244).
-- *2024.11*: &nbsp;🎉🎉 Our paper has been submitted to CVPR2025. 
+
 
 # 📝 Publications 
 
