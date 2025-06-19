@@ -17,7 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a student majoring in Automation (UWA Joint Program) at the School of Computer Science, Southwest University in Chongqing, China.Ranking 4/102 students([[Link]](https://github.com/Sanjin72W/Sanjin72W.github.io/blob/main/images/ranking_222022321132054_2025-04-02.pdf)) with a GPA of 4.3/5([[Link]](https://github.com/Sanjin72W/Sanjin72W.github.io/blob/main/images/GPA_222022321132054_2025-04-02.pdf)) and working in the Multimedia Digital Technology Laboratory under the supervision of Prof. Xiaoqin Tang[[Link]]([https://github.com/](https://cis.swu.edu.cn/info/1014/4462.htm)).My research primarily focuses on 2D/3D CT image reconstruction and MRI reconstruction. I am proficient in PyTorch and C, and also experienced in MATLAB. I have a solid understanding of the fundamental frameworks behind algorithms such as diffusion models and 3DGS, with particularly deep insights into the NeRF framework.
+I am currently a student majoring in Automation (UWA Joint Program) at the School of Computer Science, Southwest University in Chongqing, China.Ranking 4/102 students([[Link]](https://github.com/Sanjin72W/Sanjin72W.github.io/blob/main/images/ranking_222022321132054_2025-04-02.pdf)) with a GPA of 4.3/5([[Link]](https://github.com/Sanjin72W/Sanjin72W.github.io/blob/main/images/GPA_222022321132054_2025-04-02.pdf)) and working in the Multimedia Digital Technology Laboratory under the supervision of Prof. Xiaoqin Tang[[Link]]([https://github.com/](https://cis.swu.edu.cn/info/1014/4462.htm)).
+
+My research primarily focuses on 2D/3D CT image reconstruction and MRI reconstruction. I am proficient in PyTorch and C, and also experienced in MATLAB. I have a solid understanding of the fundamental frameworks behind algorithms such as diffusion models and 3DGS, with particularly deep insights into the NeRF framework.
+
 
 My research interest includes: 
 - Biomedical image reconstruction 
@@ -26,7 +29,7 @@ My research interest includes:
 
 # 🔥 News
 - *2025.06*: &nbsp;🎉🎉 Our paper has been accepted by MICCAI2025.
-- *2025.05*: &nbsp;🎉🎉 Participant, 2025 China Conference on Image and Graphics.[[Link]]([[https://github.com/](https://github.com/Sanjin72W/Sanjin72W.github.io/blob/main/images/confere.png)](https://raw.githubusercontent.com/Sanjin72W/Sanjin72W.github.io/main/images/confere.png)))
+- *2025.05*: &nbsp;🎉🎉 Participant, 2025 China Conference on Image and Graphics.[[Link]](https://raw.githubusercontent.com/Sanjin72W/Sanjin72W.github.io/main/images/confere.png)
 - *2025.03*: &nbsp;🎉🎉 Our paper has been submitted to ICCV. 
 
 
@@ -38,7 +41,10 @@ My research interest includes:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI</div><img src='images/MICCAI_result.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Qinglei Cao<sup>†</sup>, <span style="font-size:1.2em; font-weight:bold;">Ziyao Tang<sup>†</sup></span>, Xiaoqin Tang<sup>*</sup>. MICCAI.
+-	Qinglei Cao<sup>†</sup>, <span style="font-size:1.2em; font-weight:bold;">Ziyao Tang<sup>†</sup></span>, Xiaoqin Tang<sup>*</sup>. MICCAI2025.
+-	工作贡献：稀疏视角下3D锥束CT重建在隐式学习领域质的飞跃。
+-	主要贡献：从目标先验中提取结构特征的特征提取器设计。
+-	[[Code]]()Coming soon.[[Paper]]()Waiting for camera-ready edition.
 
 </div>
 </div>
