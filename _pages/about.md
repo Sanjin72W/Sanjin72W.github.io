@@ -66,7 +66,6 @@ My research interest includes:
 
 -	Ziyao Tang, Qinglei Cao, Ping Meng, Enhao Li, Xiaoqin Tang(supervisor). Accelerate INR.
 -	An extension of NAF’s ray continuity supervision to enforce continuity between voxel layers along each ray, which effectively reveals an object’s internal structure in sparse-view CT.(Since 04.2025.)
--	[[Preview]](https://github.com/Sanjin72W/Sanjin72W.github.io/blob/main/images/AI.pdf)
 </div>
 </div>
 
@@ -75,7 +74,6 @@ My research interest includes:
 
 -	Qinglei Cao, Ziyao Tang, Xiaoqin Tang(supervisor). Accelerate INR.
 -	INR Acceleration Algorithm Based on Hard Sample Selection and Gradient Grouping.(LRS Classic Hard Sample Mining Sampling Method, MLG SAX-NeRF CVPR2024 Sampling Method, Since 08.2024 - 02.2025.)
--	[[Preview]](https://github.com/Sanjin72W/Sanjin72W.github.io/blob/main/images/AI.pdf)
 </div>
 </div>
 
@@ -84,19 +82,21 @@ My research interest includes:
 
 -	Ziyao Tang, Ping Meng, Xiaoqin Tang(supervisor). Frequency-domain implicit reconstruction of 2D MRI images from highly undersampled k-space data.
 -	Modifications were made to the network structure to effectively mitigate INR's spectral bias.(Since 02.2025 - 04.2025)
--	[[Preview]](https://github.com/Sanjin72W/Sanjin72W.github.io/blob/main/images/Kspace_result.pdf)
 </div>
 </div>
 
 # 🎖 Honors and Awards
+---
 - *2025.07* National Scholarship Candidate(The final result will be released in early October).
 - *2025.06* Second Prize (National-level Recommendation), China AI and Robotics Competition.[[Link]](https://github.com/)
 - *2025.05* Third Prize, Chongqing Division, China University Student Computer Design Competition.[[Link]](https://github.com/)
 - *2024.11* Second prize in the National Mathematical Modeling Competition for College students.[[Link]](https://github.com/)
 - *2024.09* Third class scholarship to Southwest University.[[Link]](https://github.com/)
 - *2024.08* Third prize of Chongqing College Students Electronic Design Competition.[[Link]](https://github.com/Sanjin72W/Sanjin72W.github.io/blob/main/images/electric_competition.pdf)
-- *2023.09* `Merit student` of Southwest University.[[Link]](https://github.com/)
 - *2023.09* Second class scholarship to Southwest University.[[Link]](https://github.com/)
+---
+- *2025.07* National Scholarship Candidate(The final result will be released in early October).
+- *2023.09* `Merit student` of Southwest University.[[Link]](https://github.com/)
 
 # 📖 Educations
 - *2022.09 - 2026.06 (Expected)*, Major in Automation, School of Computer Science, Southwest University(UWA Joint Program). 
