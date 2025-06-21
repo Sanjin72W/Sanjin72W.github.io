@@ -58,6 +58,15 @@ My research interest includes:
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TMI</div><img src='images/IEEE_TMI.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	Xiaoqin Tang<sup>†</sup><sup>*</sup>, Qinglei Cao<sup>†</sup>, <span style="font-size:1.2em; font-weight:bold;">Ziyao Tang<sup>†</sup></span>. IEEE-TMI.
+-	Under reviewing.
+
+</div>
+</div>
+
 ### Experimental Progress
 ---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">3DCT-Reconstruction</div><img src='images/Experiment1.svg' alt="sym" width="100%"></div></div>
