@@ -53,7 +53,7 @@ My research interest includes:
 <div class='paper-box-text' markdown="1">
 
 -	Qinglei Cao<sup>†</sup>, <span style="font-size:1.2em; font-weight:bold;">Ziyao Tang<sup>†</sup></span>, Xiaoqin Tang<sup>*</sup>. ICCV.
--	Under rebuttal; scores 5–5–5 (confidences 1-3-5); decision on June 17, 2025.
+-	Under rebuttal; scores 5–5–5 (confidences 1-3-5); decision on June 26, 2025.
 -	The full paper and accompanying code will be made available upon paper acceptance.[[Preview]](https://github.com/Sanjin72W/Sanjin72W.github.io/blob/main/images/ICCV_result.pdf)
 
 </div>
@@ -61,12 +61,20 @@ My research interest includes:
 
 ### Experimental Progress
 ---
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">3DCT-Reconstruction</div><img src='images/Experiment1.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	Ziyao Tang, Qinglei Cao, Ping Meng, Enhao Li, Xiaoqin Tang(supervisor). Accelerate INR.
+-	An extension of NAF’s ray continuity supervision to enforce continuity between voxel layers along each ray, which effectively reveals an object’s internal structure in sparse-view CT.(Since 04.2025.)
+-	[[Preview]](https://github.com/Sanjin72W/Sanjin72W.github.io/blob/main/images/AI.pdf)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Accelerate INR</div><img src='images/AI.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	Qinglei Cao, Ziyao Tang, Xiaoqin Tang(supervisor). Accelerate INR.
--	INR Acceleration Algorithm Based on Hard Sample Selection and Gradient Grouping.(LRS Classic Hard Sample Mining Sampling Method, MLG SAX-NeRF CVPR2024 Sampling Method, Since 08.2024.)
+-	INR Acceleration Algorithm Based on Hard Sample Selection and Gradient Grouping.(LRS Classic Hard Sample Mining Sampling Method, MLG SAX-NeRF CVPR2024 Sampling Method, Since 08.2024 - 02.2025.)
 -	[[Preview]](https://github.com/Sanjin72W/Sanjin72W.github.io/blob/main/images/AI.pdf)
 </div>
 </div>
@@ -74,8 +82,8 @@ My research interest includes:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Frequency-domain</div><img src='images/kspace_result.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Ziyao Tang`, Xiaoqin Tang(supervisor). Frequency-domain implicit reconstruction of 2D MRI images from highly undersampled k-space data.
--	Modifications were made to the network structure to effectively mitigate INR's spectral bias.(Since 03.2025)
+-	Ziyao Tang, Ping Meng, Xiaoqin Tang(supervisor). Frequency-domain implicit reconstruction of 2D MRI images from highly undersampled k-space data.
+-	Modifications were made to the network structure to effectively mitigate INR's spectral bias.(Since 02.2025 - 04.2025)
 -	[[Preview]](https://github.com/Sanjin72W/Sanjin72W.github.io/blob/main/images/Kspace_result.pdf)
 </div>
 </div>
