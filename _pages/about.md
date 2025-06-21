@@ -86,6 +86,7 @@ My research interest includes:
 </div>
 
 # 🎖 Honors and Awards
+
 ### Honors
 ---
 - *2025.07* National Scholarship Candidate(The final result will be released in early October).
@@ -95,6 +96,7 @@ My research interest includes:
 - *2024.09* Third class scholarship to Southwest University.
 - *2024.08* Third prize of Chongqing College Students Electronic Design Competition.
 - *2023.09* Second class scholarship to Southwest University.
+
 ### Awards
 ---
 - *2025.07* National Scholarship Candidate(The final result will be released in early October).
