@@ -86,25 +86,27 @@ My research interest includes:
 </div>
 
 # 🎖 Honors and Awards
+### Honors
 ---
 - *2025.07* National Scholarship Candidate(The final result will be released in early October).
-- *2025.06* Second Prize (National-level Recommendation), China AI and Robotics Competition.[[Link]](https://github.com/)
-- *2025.05* Third Prize, Chongqing Division, China University Student Computer Design Competition.[[Link]](https://github.com/)
-- *2024.11* Second prize in the National Mathematical Modeling Competition for College students.[[Link]](https://github.com/)
-- *2024.09* Third class scholarship to Southwest University.[[Link]](https://github.com/)
-- *2024.08* Third prize of Chongqing College Students Electronic Design Competition.[[Link]](https://github.com/Sanjin72W/Sanjin72W.github.io/blob/main/images/electric_competition.pdf)
-- *2023.09* Second class scholarship to Southwest University.[[Link]](https://github.com/)
+- *2025.06* Second Prize (National-level Recommendation), China AI and Robotics Competition.
+- *2025.05* Third Prize, Chongqing Division, China University Student Computer Design Competition.
+- *2024.11* Second prize in the National Mathematical Modeling Competition for College students.
+- *2024.09* Third class scholarship to Southwest University.
+- *2024.08* Third prize of Chongqing College Students Electronic Design Competition.
+- *2023.09* Second class scholarship to Southwest University.
+### Awards
 ---
 - *2025.07* National Scholarship Candidate(The final result will be released in early October).
-- *2023.09* `Merit student` of Southwest University.[[Link]](https://github.com/)
+- *2023.09* `Merit student` of Southwest University.
 
 # 📖 Educations
 - *2022.09 - 2026.06 (Expected)*, Major in Automation, School of Computer Science, Southwest University(UWA Joint Program). 
 
 # 💬 Recommendation Letter
-- *Prof. Xiaoqin Tang*: My supervisor, Associate Professor，School of Computer Science, Southwest University.[[Link]](https://github.com/)[[📧]](mailto:brian.usher99@outlook.com)
-- *Prof. Brian Usher*: Professor, formerly the dean of the Faculty of Engineering at La Trobe University. [[Link]](https://github.com/) [[📧]](mailto:brian.usher99@outlook.com)
-- *Dr. Anwarul Patwary*: Lecturer, School of Physics, Maths and Computing, Computer Science and Software Engineering, UWA.[[Link]](https://github.com/)[[📧]](mailto:mdanwarulkaium.patwary@uwa.edu.au)
+- *Prof. Xiaoqin Tang*: My supervisor, Associate Professor，School of Computer Science, Southwest University. [[📧]](mailto:tangx0530@swu.edu.cn)
+- *Prof. Brian Usher*: Professor, formerly the dean of the Faculty of Engineering at La Trobe University. [[📧]](mailto:brian.usher99@outlook.com)
+- *Dr. Anwarul Patwary*: Lecturer, School of Physics, Maths and Computing, Computer Science and Software Engineering, UWA. [[📧]](mailto:mdanwarulkaium.patwary@uwa.edu.au)
 - (Feel free to contact them.)
 
 # 💻 Internships
