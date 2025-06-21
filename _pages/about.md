@@ -41,6 +41,7 @@ My research interest includes:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI</div><img src='images/MICCAI_Figure1.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+- Target Prior-enriched Implicit 3D CT Reconstruction with Adaptive Ray Sampling.
 -	Qinglei Cao<sup>†</sup>, <span style="font-size:1.2em; font-weight:bold;">Ziyao Tang<sup>†</sup></span>, Xiaoqin Tang<sup>*</sup>. MICCAI2025.
 -	Paper's Contribution: A coarse reconstruction is achieved within seconds by designing a CUDA-based Target Prior Estimator (TPE), and a Target Prior Structure Encoder (TPSE) is used to extract structural prior embeddings from TPE to enhance the input encoding. This leads to a qualitative breakthrough in implicit learning-based 3D cone-beam CT reconstruction under sparse-view conditions.
 -	My Contribution: TPSE is designed to pre-extract structural features without relying on a trainable network.
