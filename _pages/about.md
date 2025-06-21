@@ -44,7 +44,6 @@ My research interest includes:
 -	Qinglei Cao<sup>†</sup>, <span style="font-size:1.2em; font-weight:bold;">Ziyao Tang<sup>†</sup></span>, Xiaoqin Tang<sup>*</sup>. MICCAI2025.
 -	Paper's Contribution: A coarse reconstruction is achieved within seconds by designing a CUDA-based Target Prior Estimator (TPE), and a Target Prior Structure Encoder (TPSE) is used to extract structural prior embeddings from TPE to enhance the input encoding. This leads to a qualitative breakthrough in implicit learning-based 3D cone-beam CT reconstruction under sparse-view conditions.
 -	My Contribution: TPSE is designed to pre-extract structural features without relying on a trainable network.
--	[[Code]]()Coming soon.[[Paper]]()Waiting for camera-ready edition.
 
 </div>
 </div>
@@ -54,7 +53,7 @@ My research interest includes:
 
 -	Qinglei Cao<sup>†</sup>, <span style="font-size:1.2em; font-weight:bold;">Ziyao Tang<sup>†</sup></span>, Xiaoqin Tang<sup>*</sup>. ICCV.
 -	Under rebuttal; scores 5–5–5 (confidences 1-3-5); decision on June 26, 2025.
--	The full paper and accompanying code will be made available upon paper acceptance.[[Preview]](https://github.com/Sanjin72W/Sanjin72W.github.io/blob/main/images/ICCV_result.pdf)
+-	The full paper and accompanying code will be made available upon paper acceptance.
 
 </div>
 </div>
