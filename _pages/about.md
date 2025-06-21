@@ -108,7 +108,7 @@ My research interest includes:
 ### Honors
 ---
 - *2025.07* National Scholarship Candidate(The final result will be released in early October).
-- *2023.09* `Merit student` of Southwest University.
+- *2023.09* Merit student of Southwest University.
 
 # 📖 Educations
 - *2022.09 - 2026.06 (Expected)*, Major in Automation, School of Computer Science, Southwest University(UWA Joint Program). 
