@@ -101,14 +101,14 @@ My research interest includes:
 - *2025.06* Second Prize (National-level Recommendation), China AI and Robotics Competition.
 - *2025.05* Third Prize, Chongqing Division, China University Student Computer Design Competition.
 - *2024.11* Second prize in the National Mathematical Modeling Competition for College students.
-- *2024.09* Third class scholarship to Southwest University.
 - *2024.08* Third prize of Chongqing College Students Electronic Design Competition.
-- *2023.09* Second class scholarship to Southwest University.
 
 ### Honors
 ---
 - *2025.07* National Scholarship Candidate(The final result will be released in early October).
+- *2024.09* Third class scholarship to Southwest University.
 - *2023.09* Merit student of Southwest University.
+- *2023.09* Second class scholarship to Southwest University.
 
 # 📖 Educations
 - *2022.09 - 2026.06 (Expected)*, Major in Automation, School of Computer Science, Southwest University(UWA Joint Program). 
