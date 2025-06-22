@@ -34,8 +34,6 @@ My research interest includes:
 
 
 # 📝 Publications 
-
-### Due to the conference's double-blind review requirements, the experimental methods have been concealed and noise has been added to the experimental results.
 ---
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI</div><img src='images/MICCAI_Figure1.svg' alt="sym" width="100%"></div></div>
