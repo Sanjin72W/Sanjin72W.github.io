@@ -63,7 +63,8 @@ My research interest includes:
 <div class='paper-box-text' markdown="1">
 
 -	Xiaoqin Tang<sup>†</sup><sup>*</sup>, Qinglei Cao<sup>†</sup>, <span style="font-size:1.2em; font-weight:bold;">Ziyao Tang<sup>†</sup></span>. IEEE-TMI.
--	Under reviewing.
+-	It introduces a general method for addressing sparse‐view CT and limited‐angle CT, achieving good results with only 12 projection angles.
+-	Under review.
 
 </div>
 </div>
@@ -86,11 +87,11 @@ My research interest includes:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Frequency-domain</div><img src='images/kspace_result.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2DMRI(AF=6)</div><img src='images/kspace_result.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	Ziyao Tang, Ping Meng, Xiaoqin Tang(supervisor). Frequency-domain implicit reconstruction of 2D MRI images from highly undersampled k-space data.
--	Modifications were made to the network structure to effectively mitigate INR's spectral bias.(Since 02.2025 - 04.2025)
+-	Fitting a K-space that exhibits rapid variations using an implicit neural network—which is inherently biased toward low‐frequency, smooth components—is not easy.(Since 02.2025 - 04.2025)
 </div>
 </div>
 
