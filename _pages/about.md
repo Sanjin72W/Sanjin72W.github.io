@@ -40,7 +40,7 @@ My research interest includes:
 <div class='paper-box-text' markdown="1">
 
 - Target Prior-enriched Implicit 3D CT Reconstruction with Adaptive Ray Sampling.
--	Qinglei Cao<sup>†</sup>, <span style="font-size:1.2em; font-weight:bold;">Ziyao Tang<sup>†</sup></span>, Xiaoqin Tang<sup>*</sup>. MICCAI2025.
+-	Qinglei Cao<sup>†</sup>, <span style="font-size:1.2em; font-weight:bold;">Ziyao Tang<sup>†</sup></span>, Xiaoqin Tang<sup>*</sup>. MICCAI2025( CORE A / CCFA ).
 -	Paper's Contribution: A coarse reconstruction is achieved within seconds by designing a CUDA-based Target Prior Estimator (TPE), and a Target Prior Structure Encoder (TPSE) is used to extract structural prior embeddings from TPE to enhance the input encoding. This leads to a qualitative breakthrough in implicit learning-based 3D cone-beam CT reconstruction under sparse-view conditions.
 -	My Contribution: TPSE is designed to pre-extract structural features without relying on a trainable network.
 
@@ -50,7 +50,7 @@ My research interest includes:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV</div><img src='images/ICCV_result.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Qinglei Cao<sup>†</sup>, <span style="font-size:1.2em; font-weight:bold;">Ziyao Tang<sup>†</sup></span>, Xiaoqin Tang<sup>*</sup>. ICCV.
+-	Qinglei Cao<sup>†</sup>, <span style="font-size:1.2em; font-weight:bold;">Ziyao Tang<sup>†</sup></span>, Xiaoqin Tang<sup>*</sup>. ICCV( CORE A* / CCFA ).
 -	Under rebuttal; scores 5–5–5 (confidences 1-3-5); decision on June 26, 2025.
 -	The full paper and accompanying code will be made available upon paper acceptance.
 
@@ -60,7 +60,7 @@ My research interest includes:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TMI</div><img src='images/IEEE_TMI.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Xiaoqin Tang<sup>†</sup><sup>*</sup>, Qinglei Cao<sup>†</sup>, <span style="font-size:1.2em; font-weight:bold;">Ziyao Tang<sup>†</sup></span>. IEEE-TMI.
+-	Xiaoqin Tang<sup>†</sup><sup>*</sup>, Qinglei Cao<sup>†</sup>, <span style="font-size:1.2em; font-weight:bold;">Ziyao Tang<sup>†</sup></span>. IEEE-TMI( JCR Q1 / SCI Top-tier).
 -	It introduces a general method for addressing sparse‐view CT and limited‐angle CT, achieving good results with only 12 projection angles.
 -	Under review.
 
