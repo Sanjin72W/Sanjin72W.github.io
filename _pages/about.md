@@ -97,7 +97,6 @@ My research interest includes:
 
 ### Awards
 ---
-- *2025.07* National Scholarship Candidate(The final result will be released in early October).
 - *2025.06* Second Prize (National-level Recommendation), China AI and Robotics Competition.
 - *2025.05* Third Prize, Chongqing Division, China University Student Computer Design Competition.
 - *2024.11* Second prize in the National Mathematical Modeling Competition for College students.
