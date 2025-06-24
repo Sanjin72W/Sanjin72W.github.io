@@ -50,7 +50,7 @@ My research interest includes:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV</div><img src='images/ICCV_result.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Qinglei Cao<sup>†</sup>, <span style="font-size:1.2em; font-weight:bold;">Ziyao Tang<sup>†</sup></span>, Xiaoqin Tang<sup>*</sup>. ICCV( CORE A* / CCFA ).
+-	Qinglei Cao<sup>†</sup>, <span style="font-size:1.2em; font-weight:bold;">Ziyao Tang<sup>†</sup></span>, Xiaoqin Tang<sup>*</sup>. ICCV2025( CORE A<sup>*</sup> / CCFA ).
 -	Under rebuttal; scores 5–5–5 (confidences 1-3-5); decision on June 26, 2025.
 -	The full paper and accompanying code will be made available upon paper acceptance.
 
