@@ -79,7 +79,7 @@ My research interest includes:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Accelerate INR</div><img src='images/AI.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Qinglei Cao, <span style="font-size:1.2em; font-weight:bold;">Ziyao Tang</span>, Xiaoqin Tang(supervisor). Accelerate INR.
+-	Qinglei Cao, <span style="font-size:1.2em; font-weight:bold;">Ziyao Tang</span>, Xiaoqin Tang(supervisor). 3D SVCT Reconstruction.
 -	INR Acceleration Algorithm Based on Hard Sample Selection and Gradient Grouping.(LRS Classic Hard Sample Mining Sampling Method, MLG SAX-NeRF CVPR2024 Sampling Method, Since 08.2024 - 02.2025.)
 </div>
 </div>
