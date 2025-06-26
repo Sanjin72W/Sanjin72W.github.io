@@ -42,17 +42,17 @@ My research interest includes:
 
 - Target Prior-enriched Implicit 3D CT Reconstruction with Adaptive Ray Sampling.
 -	Qinglei Cao<sup>†</sup>, <span style="font-size:1.2em; font-weight:bold;">Ziyao Tang<sup>†</sup></span>, Xiaoqin Tang<sup>*</sup>. MICCAI2025( CORE A / CCFA ).
--	Paper's Contribution: A coarse reconstruction is achieved within seconds by designing a CUDA-based Target Prior Estimator (TPE), and a Target Prior Structure Encoder (TPSE) is used to extract structural prior embeddings from TPE to enhance the input encoding. This leads to a qualitative breakthrough in implicit learning-based 3D cone-beam CT reconstruction under sparse-view conditions.
--	My Contribution: TPSE is designed to pre-extract structural features without relying on a trainable network.
+-	My Contribution: The non-trainable Target Prior Structure Encoder (TPSE) extracts structural information from the Target Prior Estimator (TPE) and integrates it into the neural network’s input encoding.(The TPE, developed by my co-author, is a CUDA-based prior generator that runs in seconds and achieves slightly better results than SART-TV, which requires minutes.)
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV</div><img src='images/ICCV_result.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV</div><img src='images/ICCV_Method.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - TPG-INR: Target Prior-Guided Implicit 3D CT Reconstruction for Enhanced Sparse-view Imaging.
 -	Qinglei Cao<sup>†</sup>, <span style="font-size:1.2em; font-weight:bold;">Ziyao Tang<sup>†</sup></span>, Xiaoqin Tang<sup>*</sup>. ICCV2025( CORE A<sup>*</sup> / CCFA ).
+-	My Contribution: Developed a vanilla version of Target Prior-guided Voxel Sampling (TPVS), which leverages target priors to avoid wasting sampling points in air regions. (My co-author further refined the theoretical framework to enable adaptive acquisition of high-frequency information; while the vanilla version primarily speeds up convergence, the optimized method also delivers significant reconstruction-quality gains for CT with over 30 views.)
 
 </div>
 </div>
