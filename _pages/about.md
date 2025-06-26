@@ -28,9 +28,10 @@ My research interest includes:
 
 
 # 🔥 News
+- *2025.06*: &nbsp;🎉🎉 Our paper has been accepted by ICCV2025. 
 - *2025.06*: &nbsp;🎉🎉 Our paper has been accepted by MICCAI2025.
 - *2025.05*: &nbsp;🎉🎉 Participant, 2025 China Conference on Image and Graphics.[[Link]](https://raw.githubusercontent.com/Sanjin72W/Sanjin72W.github.io/main/images/confere.png)
-- *2025.03*: &nbsp;🎉🎉 Our paper has been submitted to ICCV. 
+
 
 
 # 📝 Publications 
@@ -50,9 +51,8 @@ My research interest includes:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV</div><img src='images/ICCV_result.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+- TPG-INR: Target Prior-Guided Implicit 3D CT Reconstruction for Enhanced Sparse-view Imaging.
 -	Qinglei Cao<sup>†</sup>, <span style="font-size:1.2em; font-weight:bold;">Ziyao Tang<sup>†</sup></span>, Xiaoqin Tang<sup>*</sup>. ICCV2025( CORE A<sup>*</sup> / CCFA ).
--	Under rebuttal; scores 5–5–5 (confidences 1-3-5); decision on June 26, 2025.
--	The full paper and accompanying code will be made available upon paper acceptance.
 
 </div>
 </div>
