@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a student majoring in Automation (UWA Joint Program) at the School of Computer Science, Southwest University in Chongqing, China.Ranking 4/102 students with a GPA of 4.3/5 and working in the Multimedia Digital Technology Laboratory under the supervision of Prof. Xiaoqin Tang[[Link]](https://cis.swu.edu.cn/info/1014/4462.htm).
+I am currently a student majoring in Automation (University of Western Australia Joint Program) at the School of Computer And Information Science, Southwest University in Chongqing, China. Ranking 4/102 students with a GPA of 4.3/5 and working in the Multimedia Digital Technology Laboratory under the supervision of Prof. Xiaoqin Tang[[Link]](https://cis.swu.edu.cn/info/1014/4462.htm).
 
-My research primarily focuses on 2D/3D CT reconstruction and MRI reconstruction. I am proficient in PyTorch and C, and also experienced in MATLAB. I have a solid understanding of the fundamental frameworks behind algorithms such as diffusion models and 3DGS, with particularly deep insights into the NeRF framework.
+My research primarily focuses on 2D and 3D CT reconstruction as well as 2D MRI reconstruction. In particular, for sparse‐view CT, our work has already achieved superior imaging quality with just 12 views. I am proficient in PyTorch and C, and also experienced in MATLAB. I have a solid understanding of the fundamental frameworks behind algorithms such as diffusion models and 3DGS, with particularly deep insights into the NeRF framework.
 
 
 My research interest includes: 
@@ -35,9 +35,8 @@ My research interest includes:
 
 
 # 📝 Publications 
----
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI</div><img src='images/MICCAI_Figure1.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI2025</div><img src='images/MICCAI_Figure1.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - Target Prior-enriched Implicit 3D CT Reconstruction with Adaptive Ray Sampling.
@@ -47,7 +46,7 @@ My research interest includes:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV</div><img src='images/ICCV_Method.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV2025</div><img src='images/ICCV_Method.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - TPG-INR: Target Prior-Guided Implicit 3D CT Reconstruction for Enhanced Sparse-view Imaging.
@@ -85,7 +84,7 @@ My research interest includes:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2DMRI(AF=6)</div><img src='images/kspace_result.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2D MRI(AF=6) Frequency Domain</div><img src='images/kspace_result.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	Ziyao Tang, Ping Meng, Xiaoqin Tang(supervisor). Frequency-domain implicit reconstruction of 2D MRI images from highly undersampled k-space data.
@@ -106,6 +105,7 @@ My research interest includes:
 ---
 - *2025.07* National Scholarship Candidate(The final result will be released in early October).
 - *2024.09* Third class scholarship to Southwest University.
+- *2023.09* Perseverance and Hard Work Award of Southwest University
 - *2023.09* Merit student of Southwest University.
 - *2023.09* Second class scholarship to Southwest University.
 
@@ -116,7 +116,6 @@ My research interest includes:
 - *Prof. Xiaoqin Tang*: My supervisor, Associate Professor，School of Computer Science, Southwest University. [[📧]](mailto:tangx0530@swu.edu.cn)
 - *Prof. Brian Usher*: Professor, formerly the dean of the Faculty of Engineering at La Trobe University. [[📧]](mailto:brian.usher99@outlook.com)
 - *Dr. Anwarul Patwary*: Lecturer, School of Physics, Maths and Computing, Computer Science and Software Engineering, UWA. [[📧]](mailto:mdanwarulkaium.patwary@uwa.edu.au)
-- (Feel free to contact them.)
 
 # 💻 Internships
 - *2023.07 - 2023.08*, Center for Experimental Electronic&information, Peking University.[[Link]](https://github.com/Sanjin72W/Sanjin72W.github.io/blob/main/images/PekingU.pdf)
