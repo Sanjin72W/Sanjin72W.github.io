@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a student majoring in Automation (University of Western Australia Joint Program) at the School of Computer And Information Science, Southwest University in Chongqing, China. Ranking 4/102 students with a GPA of 4.3/5 and working in the Multimedia Digital Technology Laboratory under the supervision of Prof. Xiaoqin Tang[[Link]](https://cis.swu.edu.cn/info/1014/4462.htm).
 
-My research primarily focuses on 2D and 3D CT reconstruction as well as 2D MRI reconstruction. In particular, for sparse‐view CT, our work has already achieved superior imaging quality with just 12 views. I am proficient in PyTorch and C, and also experienced in MATLAB. I have a solid understanding of the fundamental frameworks behind algorithms such as diffusion models and 3DGS, with particularly deep insights into the NeRF framework.
+My research primarily focuses on 2D and 3D CT reconstruction as well as 2D MRI reconstruction. In particular, for sparse‐view CT, our work has already achieved superior imaging quality with just 12 views. I am proficient in PyTorch and C, and also experienced in MATLAB. I have a solid understanding of the fundamental frameworks behind algorithms such as diffusion models and 3DGS（understood at the implementation level; haven’t examined the underlying principles）, with particularly deep insights into the NeRF framework.
 
 
 My research interest includes: 
