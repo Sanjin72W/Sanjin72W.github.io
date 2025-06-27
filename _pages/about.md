@@ -40,7 +40,7 @@ My research interest includes:
 <div class='paper-box-text' markdown="1">
 
 - Target Prior-enriched Implicit 3D CT Reconstruction with Adaptive Ray Sampling.
--	Qinglei Cao<sup>†</sup>, <span style="font-size:1.2em; font-weight:bold;">Ziyao Tang<sup>†</sup></span>, Xiaoqin Tang<sup>*</sup>. MICCAI2025( CORE A / CCFA ).
+-	Qinglei Cao<sup>†</sup>, <span style="font-size:1.2em; font-weight:bold;">Ziyao Tang<sup>†</sup></span>, Xiaoqin Tang<sup>*</sup>. MICCAI2025( CORE A / CCFB ).
 -	My Contribution: The non-trainable Target Prior Structure Encoder (TPSE) extracts structural information from the Target Prior Estimator (TPE) and integrates it into the neural network’s input encoding.(The TPE, developed by my co-author, is a CUDA-based prior generator that runs in seconds and achieves slightly better results than SART-TV, which requires minutes.)
 
 </div>
