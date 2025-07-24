@@ -28,7 +28,7 @@ My research interest includes:
 
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉🎉 Our paper has been accepted by ICCV2025(Highlight). 
+- *2025.06*: &nbsp;🎉🎉 Our paper has been accepted by ICCV2025 <span style="color:red;">Highlight</span>. 
 - *2025.06*: &nbsp;🎉🎉 Our paper has been accepted by MICCAI2025.
 
 # 📝 Publications 
