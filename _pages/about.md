@@ -28,11 +28,8 @@ My research interest includes:
 
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉🎉 Our paper has been accepted by ICCV2025. 
+- *2025.06*: &nbsp;🎉🎉 Our paper has been accepted by ICCV2025(Highlight). 
 - *2025.06*: &nbsp;🎉🎉 Our paper has been accepted by MICCAI2025.
-- *2025.05*: &nbsp;🎉🎉 Participant, 2025 China Conference on Image and Graphics.[[Link]](https://raw.githubusercontent.com/Sanjin72W/Sanjin72W.github.io/main/images/confere.png)
-
-
 
 # 📝 Publications 
 
@@ -50,7 +47,7 @@ My research interest includes:
 <div class='paper-box-text' markdown="1">
 
 - TPG-INR: Target Prior-Guided Implicit 3D CT Reconstruction for Enhanced Sparse-view Imaging.
--	Qinglei Cao<sup>†</sup>, <span style="font-size:1.2em; font-weight:bold;">Ziyao Tang<sup>†</sup></span>, Xiaoqin Tang<sup>*</sup>. ICCV2025( CORE A<sup>*</sup> / CCFA ).
+-	Qinglei Cao<sup>†</sup>, <span style="font-size:1.2em; font-weight:bold;">Ziyao Tang<sup>†</sup></span>, Xiaoqin Tang<sup>*</sup>. ICCV2025 <span style="color:red;">Highlight</span> ( CORE A<sup>*</sup> / CCFA ).
 -	My Contribution: Developed a vanilla version of Target Prior-guided Voxel Sampling (TPVS), which leverages target priors to avoid wasting sampling points in air regions. (My co-author further refined the theoretical framework to enable adaptive acquisition of high-frequency information; while the vanilla version primarily speeds up convergence, the optimized method also delivers significant reconstruction-quality gains for CT with over 30 views.)
 
 </div>
