@@ -56,7 +56,8 @@ My research interest includes:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TMI</div><img src='images/IEEE_TMI.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Xiaoqin Tang<sup>†</sup><sup>*</sup>(supervisor), <span style="font-size:1.2em; font-weight:bold;">Ziyao Tang<sup>†</sup></span>，Qinglei Cao<sup>†</sup>, Ping Meng, Enhao Li. IEEE-TMI( JCR Q1 / SCI Top-tier).
+- Target-specific Prior Generation and Prior-guided INR Learning for Sparse-view and Limited-angle CBCT Reconstruction.
+-	Xiaoqin Tang<sup>†</sup><sup>*</sup>(supervisor), <span style="font-size:1.2em; font-weight:bold;">Ziyao Tang<sup>†</sup></span>，Qinglei Cao, Ping Meng, Enhao Li. IEEE-TMI( JCR Q1 / SCI Top-tier).
 -	It introduces a general method for addressing sparse‐view CT and limited‐angle CT, achieving good results with only 12 projection angles.
 -	Under review.
 
