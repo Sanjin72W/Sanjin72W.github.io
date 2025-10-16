@@ -59,7 +59,7 @@ My research interest includes:
 <div class='paper-box-text' markdown="1">
 
 - Global-Local Complementary Representation Network for Vehicle Re-Identification.
--	Mingchen Deng, <span style="font-size:1.2em; font-weight:bold;">Ziyao Tang，Guoqiang Xiao<sup>†</sup>. PG( CORE A / CCFB ).
+-	Mingchen Deng, <span style="font-size:1.2em; font-weight:bold;">Ziyao Tang</span>，Guoqiang Xiao<sup>†</sup>. PG( CORE A / CCFB ).
 
 </div>
 </div>
@@ -68,7 +68,7 @@ My research interest includes:
 <div class='paper-box-text' markdown="1">
 
 - Global-Local Complementary Representation Network for Vehicle Re-Identification.
--	Yuhao Chen, Mingchen Deng，<span style="font-size:1.2em; font-weight:bold;">Ziyao Tang<sup>†</sup>. PG( CORE A / CCFB ).
+-	Yuhao Chen, Mingchen Deng，<span style="font-size:1.2em; font-weight:bold;">Ziyao Tang<sup>†</sup></span>. PG( CORE A / CCFB ).
 
 </div>
 </div>
