@@ -28,6 +28,8 @@ My research interest includes:
 
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 Our paper has been accepted by PRCV2025.
+- *2025.08*: &nbsp;🎉🎉 Our paper has been accepted by PG2025.
 - *2025.06*: &nbsp;🎉🎉 Our paper has been accepted by ICCV2025 <span style="color:red;">Highlight</span>. 
 - *2025.06*: &nbsp;🎉🎉 Our paper has been accepted by MICCAI2025.
 
@@ -53,11 +55,29 @@ My research interest includes:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TMI</div><img src='images/IEEE_TMI.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PG2025</div><img src='******************' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- Global-Local Complementary Representation Network for Vehicle Re-Identification.
+-	Mingchen Deng, <span style="font-size:1.2em; font-weight:bold;">Ziyao Tang，Guoqiang Xiao<sup>†</sup>. PG( CORE A / CCFB ).
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV2025</div><img src='******************' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- Global-Local Complementary Representation Network for Vehicle Re-Identification.
+-	Yuhao Chen, Mingchen Deng，<span style="font-size:1.2em; font-weight:bold;">Ziyao Tang<sup>†</sup>. PG( CORE A / CCFB ).
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TCI</div><img src='images/IEEE_TMI.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - Target-specific Prior Generation and Prior-guided INR Learning for Sparse-view and Limited-angle CBCT Reconstruction.
--	Xiaoqin Tang<sup>†</sup><sup>*</sup>(supervisor), <span style="font-size:1.2em; font-weight:bold;">Ziyao Tang<sup>†</sup></span>，Qinglei Cao, Ping Meng, Enhao Li. IEEE-TMI( JCR Q1 / SCI Top-tier).
+-	Xiaoqin Tang<sup>†</sup><sup>*</sup>(supervisor), <span style="font-size:1.2em; font-weight:bold;">Ziyao Tang<sup>†</sup></span>，Qinglei Cao, Ping Meng, Enhao Li. IEEE-TCI( JCR Q2 ).
 -	It introduces a general method for addressing sparse‐view CT and limited‐angle CT, achieving good results with only 12 projection angles.
 -	Under review.
 
